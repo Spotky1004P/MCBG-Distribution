@@ -1,0 +1,20 @@
+{
+  "allowMovement": {
+    "net.minecraft.client.gui.screen.IngameMenuScreen": true,
+    "net.minecraft.client.gui.screen.PackScreen": true,
+    "me.moneyghost.battlefield.game.MapScreen": true,
+    "com.mrcrayfish.guns.client.screen.AttachmentScreen": true,
+    "me.jellysquid.mods.sodium.client.gui.SodiumOptionsGUI": true,
+    "de.maxhenkel.voicechat.gui.VoiceChatScreen": true,
+    "me.moneyghost.battlefield.setup.ContainerScreenBasic": true,
+    "de.maxhenkel.voicechat.gui.volume.AdjustVolumesScreen": true,
+    "de.maxhenkel.voicechat.gui.VoiceChatSettingsScreen": true,
+    "com.supermartijn642.core.gui.WidgetScreen": true
+  },
+  "hideBackground": {
+    "net.minecraft.client.gui.social.SocialInteractionsScreen": true,
+    "com.mrcrayfish.guns.client.screen.AttachmentScreen": true,
+    "me.moneyghost.battlefield.setup.ContainerScreenBasic": true,
+    "com.supermartijn642.core.gui.WidgetScreen": true
+  }
+}

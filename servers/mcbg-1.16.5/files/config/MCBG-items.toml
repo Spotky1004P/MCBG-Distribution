@@ -1,0 +1,15 @@
+
+[Config]
+	#Default: 200
+	"Helmet Durability: " = 200
+	#Default: 1.6
+	"Frying Pan Recharge: " = 1.6
+	#Default: 2.0
+	"Helmet Defense: " = 2.0
+	#Default: 2
+	"Frying Pan Damage: " = 2
+	#Default: 5.0
+	"Vest Defense: " = 5.0
+	#Default: 230
+	"Vest Durability: " = 230
+

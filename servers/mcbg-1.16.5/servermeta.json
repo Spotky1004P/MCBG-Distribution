@@ -1,0 +1,20 @@
+{
+  "$schema": "file:///D:/Launcher_Comm/MCBG/MCBG-Distribution/schemas/ServerMetaSchema.schema.json",
+  "meta": {
+    "version": "1.0.0",
+    "name": "mcbg (Minecraft 1.16.5)",
+    "description": "MCBG server(1.16.5) | play.mcbg.kr",
+    "address": "play.mcbg.kr",
+    "discord": {
+      "shortId": "MCBG server(1.16.5) | play.mcbg.kr",
+      "largeImageText": "MCBG server(1.16.5) | play.mcbg.kr",
+      "largeImageKey": "icon"
+    },
+    "mainServer": true,
+    "autoconnect": true
+  },
+  "forge": {
+    "version": "36.2.34"
+  },
+  "untrackedFiles": []
+}
