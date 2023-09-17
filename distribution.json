@@ -11,7 +11,7 @@
       "id": "mcbg-1.16.5",
       "name": "mcbg (Minecraft 1.16.5)",
       "description": "MCBG server(1.16.5) | play.mcbg.kr",
-      "icon": null,
+      "icon": "https://cdn.discordapp.com/attachments/1137848906106011758/1141373703930781696/server-icon.png",
       "version": "1.0.0",
       "address": "play.mcbg.kr",
       "minecraftVersion": "1.16.5",
