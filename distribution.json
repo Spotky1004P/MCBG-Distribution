@@ -31,7 +31,7 @@
           "artifact": {
             "size": 212608,
             "MD5": "e8de93b1e25fcb60d847b2565d35369c",
-            "url": "https://github.com/Spotky1004P/repo/lib/net/minecraftforge/forge/1.16.5-36.2.34/forge-1.16.5-36.2.34.jar"
+            "url": "https://raw.githubusercontent.com/Spotky1004P/MCBG-Distribution/main/repo/lib/net/minecraftforge/forge/1.16.5-36.2.34/forge-1.16.5-36.2.34.jar"
           },
           "subModules": [
             {
@@ -41,7 +41,7 @@
               "artifact": {
                 "size": 13577,
                 "MD5": "9cc72898a14a7d162d6813443761d30a",
-                "url": "https://github.com/Spotky1004P/repo/versions/1.16.5-forge-36.2.34/1.16.5-forge-36.2.34.json"
+                "url": "https://raw.githubusercontent.com/Spotky1004P/MCBG-Distribution/main/repo/versions/1.16.5-forge-36.2.34/1.16.5-forge-36.2.34.json"
               }
             },
             {
@@ -52,7 +52,7 @@
               "artifact": {
                 "size": 2773337,
                 "MD5": "521b6d8bfa23e4e00da77f4a07f01f8f",
-                "url": "https://github.com/Spotky1004P/repo/lib/net/minecraftforge/forge/1.16.5-36.2.34/forge-1.16.5-36.2.34-universal.jar"
+                "url": "https://raw.githubusercontent.com/Spotky1004P/MCBG-Distribution/main/repo/lib/net/minecraftforge/forge/1.16.5-36.2.34/forge-1.16.5-36.2.34-universal.jar"
               },
               "subModules": []
             },
@@ -64,7 +64,7 @@
               "artifact": {
                 "size": 4214137,
                 "MD5": "8d8990d72f63d109f68fedf74182a3ea",
-                "url": "https://github.com/Spotky1004P/repo/lib/net/minecraftforge/forge/1.16.5-36.2.34/forge-1.16.5-36.2.34-client.jar"
+                "url": "https://raw.githubusercontent.com/Spotky1004P/MCBG-Distribution/main/repo/lib/net/minecraftforge/forge/1.16.5-36.2.34/forge-1.16.5-36.2.34-client.jar"
               },
               "subModules": []
             },
@@ -76,7 +76,7 @@
               "artifact": {
                 "size": 11352644,
                 "MD5": "f0110bfcb066331a4ea9a71fd6243e5c",
-                "url": "https://github.com/Spotky1004P/repo/lib/net/minecraft/client/1.16.5-20210115.111550/client-1.16.5-20210115.111550-srg.jar"
+                "url": "https://raw.githubusercontent.com/Spotky1004P/MCBG-Distribution/main/repo/lib/net/minecraft/client/1.16.5-20210115.111550/client-1.16.5-20210115.111550-srg.jar"
               },
               "subModules": []
             },
@@ -88,7 +88,7 @@
               "artifact": {
                 "size": 9118806,
                 "MD5": "df78297c0b6526e16f2bb7a685fd6b96",
-                "url": "https://github.com/Spotky1004P/repo/lib/net/minecraft/client/1.16.5-20210115.111550/client-1.16.5-20210115.111550-slim.jar"
+                "url": "https://raw.githubusercontent.com/Spotky1004P/MCBG-Distribution/main/repo/lib/net/minecraft/client/1.16.5-20210115.111550/client-1.16.5-20210115.111550-slim.jar"
               },
               "subModules": []
             },
@@ -100,7 +100,7 @@
               "artifact": {
                 "size": 8428369,
                 "MD5": "dbed747390f81e10cee40500b726431a",
-                "url": "https://github.com/Spotky1004P/repo/lib/net/minecraft/client/1.16.5-20210115.111550/client-1.16.5-20210115.111550-extra.jar"
+                "url": "https://raw.githubusercontent.com/Spotky1004P/MCBG-Distribution/main/repo/lib/net/minecraft/client/1.16.5-20210115.111550/client-1.16.5-20210115.111550-extra.jar"
               },
               "subModules": []
             },
@@ -111,7 +111,7 @@
               "artifact": {
                 "size": 121790,
                 "MD5": "54b9f5d15e4877a4ea4cf9ec48e07afa",
-                "url": "https://github.com/Spotky1004P/repo/lib/org/ow2/asm/asm/9.1/asm-9.1.jar"
+                "url": "https://raw.githubusercontent.com/Spotky1004P/MCBG-Distribution/main/repo/lib/org/ow2/asm/asm/9.1/asm-9.1.jar"
               }
             },
             {
@@ -121,7 +121,7 @@
               "artifact": {
                 "size": 72641,
                 "MD5": "81cc6b8f5ce8f2767d39fbd4b6c37a6a",
-                "url": "https://github.com/Spotky1004P/repo/lib/org/ow2/asm/asm-commons/9.1/asm-commons-9.1.jar"
+                "url": "https://raw.githubusercontent.com/Spotky1004P/MCBG-Distribution/main/repo/lib/org/ow2/asm/asm-commons/9.1/asm-commons-9.1.jar"
               }
             },
             {
@@ -131,7 +131,7 @@
               "artifact": {
                 "size": 52662,
                 "MD5": "c2536add9ebcfa8066fcfb0dbe865879",
-                "url": "https://github.com/Spotky1004P/repo/lib/org/ow2/asm/asm-tree/9.1/asm-tree-9.1.jar"
+                "url": "https://raw.githubusercontent.com/Spotky1004P/MCBG-Distribution/main/repo/lib/org/ow2/asm/asm-tree/9.1/asm-tree-9.1.jar"
               }
             },
             {
@@ -141,7 +141,7 @@
               "artifact": {
                 "size": 84679,
                 "MD5": "2f1a28f6b0f3e02b17d38a0f657a1527",
-                "url": "https://github.com/Spotky1004P/repo/lib/org/ow2/asm/asm-util/9.1/asm-util-9.1.jar"
+                "url": "https://raw.githubusercontent.com/Spotky1004P/MCBG-Distribution/main/repo/lib/org/ow2/asm/asm-util/9.1/asm-util-9.1.jar"
               }
             },
             {
@@ -151,7 +151,7 @@
               "artifact": {
                 "size": 34257,
                 "MD5": "f0e82941173b6049c03e8214ace70ecd",
-                "url": "https://github.com/Spotky1004P/repo/lib/org/ow2/asm/asm-analysis/9.1/asm-analysis-9.1.jar"
+                "url": "https://raw.githubusercontent.com/Spotky1004P/MCBG-Distribution/main/repo/lib/org/ow2/asm/asm-analysis/9.1/asm-analysis-9.1.jar"
               }
             },
             {
@@ -161,7 +161,7 @@
               "artifact": {
                 "size": 126747,
                 "MD5": "b6ba74224a6a68e6fb3e9cf3d72b9344",
-                "url": "https://github.com/Spotky1004P/repo/lib/cpw/mods/modlauncher/8.1.3/modlauncher-8.1.3.jar"
+                "url": "https://raw.githubusercontent.com/Spotky1004P/MCBG-Distribution/main/repo/lib/cpw/mods/modlauncher/8.1.3/modlauncher-8.1.3.jar"
               }
             },
             {
@@ -171,7 +171,7 @@
               "artifact": {
                 "size": 2113,
                 "MD5": "d19b487241008d8e6111137a289ea1d7",
-                "url": "https://github.com/Spotky1004P/repo/lib/cpw/mods/grossjava9hacks/1.3.3/grossjava9hacks-1.3.3.jar"
+                "url": "https://raw.githubusercontent.com/Spotky1004P/MCBG-Distribution/main/repo/lib/cpw/mods/grossjava9hacks/1.3.3/grossjava9hacks-1.3.3.jar"
               }
             },
             {
@@ -181,7 +181,7 @@
               "artifact": {
                 "size": 76586,
                 "MD5": "ada4c365c3d0de73c05a94010432b547",
-                "url": "https://github.com/Spotky1004P/repo/lib/net/minecraftforge/accesstransformers/3.0.1/accesstransformers-3.0.1.jar"
+                "url": "https://raw.githubusercontent.com/Spotky1004P/MCBG-Distribution/main/repo/lib/net/minecraftforge/accesstransformers/3.0.1/accesstransformers-3.0.1.jar"
               }
             },
             {
@@ -191,7 +191,7 @@
               "artifact": {
                 "size": 337868,
                 "MD5": "0dcc4b860d5d8d2852ab94d58c56ca2d",
-                "url": "https://github.com/Spotky1004P/repo/lib/org/antlr/antlr4-runtime/4.9.1/antlr4-runtime-4.9.1.jar"
+                "url": "https://raw.githubusercontent.com/Spotky1004P/MCBG-Distribution/main/repo/lib/org/antlr/antlr4-runtime/4.9.1/antlr4-runtime-4.9.1.jar"
               }
             },
             {
@@ -201,7 +201,7 @@
               "artifact": {
                 "size": 42873,
                 "MD5": "84c4758e6139b70146104be5bb1300b5",
-                "url": "https://github.com/Spotky1004P/repo/lib/net/minecraftforge/eventbus/4.0.0/eventbus-4.0.0.jar"
+                "url": "https://raw.githubusercontent.com/Spotky1004P/MCBG-Distribution/main/repo/lib/net/minecraftforge/eventbus/4.0.0/eventbus-4.0.0.jar"
               }
             },
             {
@@ -211,7 +211,7 @@
               "artifact": {
                 "size": 20172,
                 "MD5": "8f1f6942d17d88d704324e8000666a1a",
-                "url": "https://github.com/Spotky1004P/repo/lib/net/minecraftforge/forgespi/3.2.0/forgespi-3.2.0.jar"
+                "url": "https://raw.githubusercontent.com/Spotky1004P/MCBG-Distribution/main/repo/lib/net/minecraftforge/forgespi/3.2.0/forgespi-3.2.0.jar"
               }
             },
             {
@@ -221,7 +221,7 @@
               "artifact": {
                 "size": 25453,
                 "MD5": "e56551f2586d3ff08beb24f5ea44a7d3",
-                "url": "https://github.com/Spotky1004P/repo/lib/net/minecraftforge/coremods/4.0.6/coremods-4.0.6.jar"
+                "url": "https://raw.githubusercontent.com/Spotky1004P/MCBG-Distribution/main/repo/lib/net/minecraftforge/coremods/4.0.6/coremods-4.0.6.jar"
               }
             },
             {
@@ -231,7 +231,7 @@
               "artifact": {
                 "size": 2834,
                 "MD5": "2d1016ebe4c1a63dd50a59d26bd12db1",
-                "url": "https://github.com/Spotky1004P/repo/lib/net/minecraftforge/unsafe/0.2.0/unsafe-0.2.0.jar"
+                "url": "https://raw.githubusercontent.com/Spotky1004P/MCBG-Distribution/main/repo/lib/net/minecraftforge/unsafe/0.2.0/unsafe-0.2.0.jar"
               }
             },
             {
@@ -241,7 +241,7 @@
               "artifact": {
                 "size": 199091,
                 "MD5": "093b0ca357d3f8b922170b8d7f43948c",
-                "url": "https://github.com/Spotky1004P/repo/lib/com/electronwill/night-config/core/3.6.3/core-3.6.3.jar"
+                "url": "https://raw.githubusercontent.com/Spotky1004P/MCBG-Distribution/main/repo/lib/com/electronwill/night-config/core/3.6.3/core-3.6.3.jar"
               }
             },
             {
@@ -251,7 +251,7 @@
               "artifact": {
                 "size": 31288,
                 "MD5": "615b8e62371c536f876764591990118d",
-                "url": "https://github.com/Spotky1004P/repo/lib/com/electronwill/night-config/toml/3.6.3/toml-3.6.3.jar"
+                "url": "https://raw.githubusercontent.com/Spotky1004P/MCBG-Distribution/main/repo/lib/com/electronwill/night-config/toml/3.6.3/toml-3.6.3.jar"
               }
             },
             {
@@ -261,7 +261,7 @@
               "artifact": {
                 "size": 732926,
                 "MD5": "ffd8c9d6eb8a8456ef505c8ef9fc777d",
-                "url": "https://github.com/Spotky1004P/repo/lib/org/jline/jline/3.12.1/jline-3.12.1.jar"
+                "url": "https://raw.githubusercontent.com/Spotky1004P/MCBG-Distribution/main/repo/lib/org/jline/jline/3.12.1/jline-3.12.1.jar"
               }
             },
             {
@@ -271,7 +271,7 @@
               "artifact": {
                 "size": 57824,
                 "MD5": "b83c1943a0783f3f81d4cd4c83c363e1",
-                "url": "https://github.com/Spotky1004P/repo/lib/org/apache/maven/maven-artifact/3.6.3/maven-artifact-3.6.3.jar"
+                "url": "https://raw.githubusercontent.com/Spotky1004P/MCBG-Distribution/main/repo/lib/org/apache/maven/maven-artifact/3.6.3/maven-artifact-3.6.3.jar"
               }
             },
             {
@@ -281,7 +281,7 @@
               "artifact": {
                 "size": 15425,
                 "MD5": "ee4596e1413cc1a5e080c971d6064753",
-                "url": "https://github.com/Spotky1004P/repo/lib/net/jodah/typetools/0.8.3/typetools-0.8.3.jar"
+                "url": "https://raw.githubusercontent.com/Spotky1004P/MCBG-Distribution/main/repo/lib/net/jodah/typetools/0.8.3/typetools-0.8.3.jar"
               }
             },
             {
@@ -291,7 +291,7 @@
               "artifact": {
                 "size": 301804,
                 "MD5": "a9ccfa7e3382dd2b9e0647a43d8286d7",
-                "url": "https://github.com/Spotky1004P/repo/lib/org/apache/logging/log4j/log4j-api/2.15.0/log4j-api-2.15.0.jar"
+                "url": "https://raw.githubusercontent.com/Spotky1004P/MCBG-Distribution/main/repo/lib/org/apache/logging/log4j/log4j-api/2.15.0/log4j-api-2.15.0.jar"
               }
             },
             {
@@ -301,7 +301,7 @@
               "artifact": {
                 "size": 1789769,
                 "MD5": "81e0433ae00602c0e4d00424d213b0ab",
-                "url": "https://github.com/Spotky1004P/repo/lib/org/apache/logging/log4j/log4j-core/2.15.0/log4j-core-2.15.0.jar"
+                "url": "https://raw.githubusercontent.com/Spotky1004P/MCBG-Distribution/main/repo/lib/org/apache/logging/log4j/log4j-core/2.15.0/log4j-core-2.15.0.jar"
               }
             },
             {
@@ -311,7 +311,7 @@
               "artifact": {
                 "size": 21223,
                 "MD5": "196442f1bdde4dbb0f576eed616e21b0",
-                "url": "https://github.com/Spotky1004P/repo/lib/org/apache/logging/log4j/log4j-slf4j18-impl/2.15.0/log4j-slf4j18-impl-2.15.0.jar"
+                "url": "https://raw.githubusercontent.com/Spotky1004P/MCBG-Distribution/main/repo/lib/org/apache/logging/log4j/log4j-slf4j18-impl/2.15.0/log4j-slf4j18-impl-2.15.0.jar"
               }
             },
             {
@@ -321,7 +321,7 @@
               "artifact": {
                 "size": 15977,
                 "MD5": "679363fa893293791e55a21f81342f87",
-                "url": "https://github.com/Spotky1004P/repo/lib/net/minecrell/terminalconsoleappender/1.2.0/terminalconsoleappender-1.2.0.jar"
+                "url": "https://raw.githubusercontent.com/Spotky1004P/MCBG-Distribution/main/repo/lib/net/minecrell/terminalconsoleappender/1.2.0/terminalconsoleappender-1.2.0.jar"
               }
             },
             {
@@ -331,7 +331,7 @@
               "artifact": {
                 "size": 78146,
                 "MD5": "eb0d9dffe9b0eddead68fe678be76c49",
-                "url": "https://github.com/Spotky1004P/repo/lib/net/sf/jopt-simple/jopt-simple/5.0.4/jopt-simple-5.0.4.jar"
+                "url": "https://raw.githubusercontent.com/Spotky1004P/MCBG-Distribution/main/repo/lib/net/sf/jopt-simple/jopt-simple/5.0.4/jopt-simple-5.0.4.jar"
               }
             },
             {
@@ -341,7 +341,7 @@
               "artifact": {
                 "size": 1069391,
                 "MD5": "25fbb8ff965e88cc2252c99be0cf5cbb",
-                "url": "https://github.com/Spotky1004P/repo/lib/org/spongepowered/mixin/0.8.4/mixin-0.8.4.jar"
+                "url": "https://raw.githubusercontent.com/Spotky1004P/MCBG-Distribution/main/repo/lib/org/spongepowered/mixin/0.8.4/mixin-0.8.4.jar"
               }
             },
             {
@@ -351,7 +351,7 @@
               "artifact": {
                 "size": 2194057,
                 "MD5": "ae37ed8407982eefc9f85fdb1c95a3a0",
-                "url": "https://github.com/Spotky1004P/repo/lib/net/minecraftforge/nashorn-core-compat/15.1.1.1/nashorn-core-compat-15.1.1.1.jar"
+                "url": "https://raw.githubusercontent.com/Spotky1004P/MCBG-Distribution/main/repo/lib/net/minecraftforge/nashorn-core-compat/15.1.1.1/nashorn-core-compat-15.1.1.1.jar"
               }
             }
           ]
@@ -362,7 +362,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 551890,
-            "url": "https://github.com/Spotky1004P/servers/mcbg-1.16.5/forgemods/required/architectury-1.32.66.jar",
+            "url": "https://raw.githubusercontent.com/Spotky1004P/MCBG-Distribution/main/servers/mcbg-1.16.5/forgemods/required/architectury-1.32.66.jar",
             "MD5": "5035bb619d94ef535c0094702ebe4f31"
           }
         },
@@ -372,7 +372,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 17714,
-            "url": "https://github.com/Spotky1004P/servers/mcbg-1.16.5/forgemods/required/BBIUtils-1.0.1-RELEASE.jar",
+            "url": "https://raw.githubusercontent.com/Spotky1004P/MCBG-Distribution/main/servers/mcbg-1.16.5/forgemods/required/BBIUtils-1.0.1-RELEASE.jar",
             "MD5": "be9175f782446d73f4dde4d9fb88628f"
           }
         },
@@ -382,7 +382,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 16061,
-            "url": "https://github.com/Spotky1004P/servers/mcbg-1.16.5/forgemods/required/block_limit_fix-1.0.3-forge.jar",
+            "url": "https://raw.githubusercontent.com/Spotky1004P/MCBG-Distribution/main/servers/mcbg-1.16.5/forgemods/required/block_limit_fix-1.0.3-forge.jar",
             "MD5": "0739aad03e5d6ad635ac1cd3d6c8a0d7"
           }
         },
@@ -392,7 +392,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1609656,
-            "url": "https://github.com/Spotky1004P/servers/mcbg-1.16.5/forgemods/required/cgm-1.2.6-1.16.5.jar",
+            "url": "https://raw.githubusercontent.com/Spotky1004P/MCBG-Distribution/main/servers/mcbg-1.16.5/forgemods/required/cgm-1.2.6-1.16.5.jar",
             "MD5": "a09876abcf79d447164a7aa0563c9245"
           }
         },
@@ -402,7 +402,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 146467,
-            "url": "https://github.com/Spotky1004P/servers/mcbg-1.16.5/forgemods/required/chunkloaders-1.2.3-forge-mc1.16.jar",
+            "url": "https://raw.githubusercontent.com/Spotky1004P/MCBG-Distribution/main/servers/mcbg-1.16.5/forgemods/required/chunkloaders-1.2.3-forge-mc1.16.jar",
             "MD5": "4c402688038fdcec164b6e4a9377f00e"
           }
         },
@@ -412,7 +412,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1441438,
-            "url": "https://github.com/Spotky1004P/servers/mcbg-1.16.5/forgemods/required/cloth-config-4.16.91-forge.jar",
+            "url": "https://raw.githubusercontent.com/Spotky1004P/MCBG-Distribution/main/servers/mcbg-1.16.5/forgemods/required/cloth-config-4.16.91-forge.jar",
             "MD5": "3d099c99dfe94f89280815d302d1ea94"
           }
         },
@@ -422,7 +422,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 126190,
-            "url": "https://github.com/Spotky1004P/servers/mcbg-1.16.5/forgemods/required/dummmmmmy-1.16.5-1.3.3.jar",
+            "url": "https://raw.githubusercontent.com/Spotky1004P/MCBG-Distribution/main/servers/mcbg-1.16.5/forgemods/required/dummmmmmy-1.16.5-1.3.3.jar",
             "MD5": "bb1342a154c05ef83258488729e1ba3d"
           }
         },
@@ -432,7 +432,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 46532,
-            "url": "https://github.com/Spotky1004P/servers/mcbg-1.16.5/forgemods/required/entityculling-forge-mc1.16.5-1.5.2.jar",
+            "url": "https://raw.githubusercontent.com/Spotky1004P/MCBG-Distribution/main/servers/mcbg-1.16.5/forgemods/required/entityculling-forge-mc1.16.5-1.5.2.jar",
             "MD5": "8696ac24f0d209aadaf754bed9c2e1f6"
           }
         },
@@ -442,7 +442,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 10183,
-            "url": "https://github.com/Spotky1004P/servers/mcbg-1.16.5/forgemods/required/farsight-1.7.jar",
+            "url": "https://raw.githubusercontent.com/Spotky1004P/MCBG-Distribution/main/servers/mcbg-1.16.5/forgemods/required/farsight-1.7.jar",
             "MD5": "8b538b241feaa474dc661b4523c18fb6"
           }
         },
@@ -452,7 +452,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 108557,
-            "url": "https://github.com/Spotky1004P/servers/mcbg-1.16.5/forgemods/required/ferritecore-2.1.1-forge.jar",
+            "url": "https://raw.githubusercontent.com/Spotky1004P/MCBG-Distribution/main/servers/mcbg-1.16.5/forgemods/required/ferritecore-2.1.1-forge.jar",
             "MD5": "6a96a36de00e5d8e9bf2e87634d13125"
           }
         },
@@ -462,7 +462,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 585125,
-            "url": "https://github.com/Spotky1004P/servers/mcbg-1.16.5/forgemods/required/ftb-library-forge-1605.3.4-build.90.jar",
+            "url": "https://raw.githubusercontent.com/Spotky1004P/MCBG-Distribution/main/servers/mcbg-1.16.5/forgemods/required/ftb-library-forge-1605.3.4-build.90.jar",
             "MD5": "88b4c3497d1aa260481bd74e464a3d70"
           }
         },
@@ -472,7 +472,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 65335,
-            "url": "https://github.com/Spotky1004P/servers/mcbg-1.16.5/forgemods/required/ftb-ranks-forge-1605.1.6-build.33.jar",
+            "url": "https://raw.githubusercontent.com/Spotky1004P/MCBG-Distribution/main/servers/mcbg-1.16.5/forgemods/required/ftb-ranks-forge-1605.1.6-build.33.jar",
             "MD5": "3336f9123cc3d1a8f7ba8867fa035de7"
           }
         },
@@ -482,7 +482,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 3670,
-            "url": "https://github.com/Spotky1004P/servers/mcbg-1.16.5/forgemods/required/GameMenuRemoveGFARB-1.16.4-1.1.1.jar",
+            "url": "https://raw.githubusercontent.com/Spotky1004P/MCBG-Distribution/main/servers/mcbg-1.16.5/forgemods/required/GameMenuRemoveGFARB-1.16.4-1.1.1.jar",
             "MD5": "5119afed9f52d48eb38ca77502b61776"
           }
         },
@@ -492,7 +492,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 3559283,
-            "url": "https://github.com/Spotky1004P/servers/mcbg-1.16.5/forgemods/required/geckolib-forge-1.16.5-3.0.106.jar",
+            "url": "https://raw.githubusercontent.com/Spotky1004P/MCBG-Distribution/main/servers/mcbg-1.16.5/forgemods/required/geckolib-forge-1.16.5-3.0.106.jar",
             "MD5": "6f4524eea52474c58280c2b0ac06e1e0"
           }
         },
@@ -502,7 +502,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1229242,
-            "url": "https://github.com/Spotky1004P/servers/mcbg-1.16.5/forgemods/required/HammerLib-1.16.5-16.4.32.jar",
+            "url": "https://raw.githubusercontent.com/Spotky1004P/MCBG-Distribution/main/servers/mcbg-1.16.5/forgemods/required/HammerLib-1.16.5-16.4.32.jar",
             "MD5": "ce0af6a4aadc3312155870a3616e9914"
           }
         },
@@ -512,7 +512,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 144965,
-            "url": "https://github.com/Spotky1004P/servers/mcbg-1.16.5/forgemods/required/hitindication-1.16.5-1.3.jar",
+            "url": "https://raw.githubusercontent.com/Spotky1004P/MCBG-Distribution/main/servers/mcbg-1.16.5/forgemods/required/hitindication-1.16.5-1.3.jar",
             "MD5": "10b4d919fc3972d26b18504ecfa123b5"
           }
         },
@@ -522,7 +522,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 597406,
-            "url": "https://github.com/Spotky1004P/servers/mcbg-1.16.5/forgemods/required/iChunUtil-1.16.5-10.6.1.jar",
+            "url": "https://raw.githubusercontent.com/Spotky1004P/MCBG-Distribution/main/servers/mcbg-1.16.5/forgemods/required/iChunUtil-1.16.5-10.6.1.jar",
             "MD5": "6bd36e6b720fa2a363efb3d732500184"
           }
         },
@@ -532,7 +532,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 124482,
-            "url": "https://github.com/Spotky1004P/servers/mcbg-1.16.5/forgemods/required/InvMove-1.16-0.8.4-Forge.jar",
+            "url": "https://raw.githubusercontent.com/Spotky1004P/MCBG-Distribution/main/servers/mcbg-1.16.5/forgemods/required/InvMove-1.16-0.8.4-Forge.jar",
             "MD5": "a16f8e6d877f3a4e015091acc43ea672"
           }
         },
@@ -542,7 +542,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 15258,
-            "url": "https://github.com/Spotky1004P/servers/mcbg-1.16.5/forgemods/required/lazydfu-0.1.3.jar",
+            "url": "https://raw.githubusercontent.com/Spotky1004P/MCBG-Distribution/main/servers/mcbg-1.16.5/forgemods/required/lazydfu-0.1.3.jar",
             "MD5": "fce7920ba6329d631da4025e9322e5e0"
           }
         },
@@ -552,7 +552,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 49997,
-            "url": "https://github.com/Spotky1004P/servers/mcbg-1.16.5/forgemods/required/lightspeed-1.16.5-1.0.5.jar",
+            "url": "https://raw.githubusercontent.com/Spotky1004P/MCBG-Distribution/main/servers/mcbg-1.16.5/forgemods/required/lightspeed-1.16.5-1.0.5.jar",
             "MD5": "d49c88b98dfbe4add2bae2e12fc22b05"
           }
         },
@@ -562,7 +562,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 760857,
-            "url": "https://github.com/Spotky1004P/servers/mcbg-1.16.5/forgemods/required/MCBG-client.jar",
+            "url": "https://raw.githubusercontent.com/Spotky1004P/MCBG-Distribution/main/servers/mcbg-1.16.5/forgemods/required/MCBG-client.jar",
             "MD5": "3e69632928586c43c1814364b04eb79c"
           }
         },
@@ -572,7 +572,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 153453,
-            "url": "https://github.com/Spotky1004P/servers/mcbg-1.16.5/forgemods/required/memoryleakfix-forge-pre1.17-1.1.1.jar",
+            "url": "https://raw.githubusercontent.com/Spotky1004P/MCBG-Distribution/main/servers/mcbg-1.16.5/forgemods/required/memoryleakfix-forge-pre1.17-1.1.1.jar",
             "MD5": "2f8ead67d07c4d189ec029c583e30f4b"
           }
         },
@@ -582,7 +582,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 58249,
-            "url": "https://github.com/Spotky1004P/servers/mcbg-1.16.5/forgemods/required/MouseTweaks-2.14-mc1.16.2.jar",
+            "url": "https://raw.githubusercontent.com/Spotky1004P/MCBG-Distribution/main/servers/mcbg-1.16.5/forgemods/required/MouseTweaks-2.14-mc1.16.2.jar",
             "MD5": "3b4e04a9a79094149306457c7db838d5"
           }
         },
@@ -592,7 +592,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 3430,
-            "url": "https://github.com/Spotky1004P/servers/mcbg-1.16.5/forgemods/required/MyServerIsCompatible-1.16.5-1.0.jar",
+            "url": "https://raw.githubusercontent.com/Spotky1004P/MCBG-Distribution/main/servers/mcbg-1.16.5/forgemods/required/MyServerIsCompatible-1.16.5-1.0.jar",
             "MD5": "c167213964177a47ea372803f33637b2"
           }
         },
@@ -602,7 +602,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 36119,
-            "url": "https://github.com/Spotky1004P/servers/mcbg-1.16.5/forgemods/required/NoChatLagForge-1.1.0-1.16.jar",
+            "url": "https://raw.githubusercontent.com/Spotky1004P/MCBG-Distribution/main/servers/mcbg-1.16.5/forgemods/required/NoChatLagForge-1.1.0-1.16.jar",
             "MD5": "12566746ce3ac7c69f906d29223ed4c2"
           }
         },
@@ -612,7 +612,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 4603,
-            "url": "https://github.com/Spotky1004P/servers/mcbg-1.16.5/forgemods/required/norecipebookreborn-1.0.1.jar",
+            "url": "https://raw.githubusercontent.com/Spotky1004P/MCBG-Distribution/main/servers/mcbg-1.16.5/forgemods/required/norecipebookreborn-1.0.1.jar",
             "MD5": "ecf2dc23c0d54e5b8d33eda7887bb2ab"
           }
         },
@@ -622,7 +622,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 142536,
-            "url": "https://github.com/Spotky1004P/servers/mcbg-1.16.5/forgemods/required/obfuscate-0.6.3-1.16.5.jar",
+            "url": "https://raw.githubusercontent.com/Spotky1004P/MCBG-Distribution/main/servers/mcbg-1.16.5/forgemods/required/obfuscate-0.6.3-1.16.5.jar",
             "MD5": "514fe4c6c39bc1b7e474d813daab593e"
           }
         },
@@ -632,7 +632,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 6019,
-            "url": "https://github.com/Spotky1004P/servers/mcbg-1.16.5/forgemods/required/PacketSizeDoublerForge-1.0.7-1.16.x.jar",
+            "url": "https://raw.githubusercontent.com/Spotky1004P/MCBG-Distribution/main/servers/mcbg-1.16.5/forgemods/required/PacketSizeDoublerForge-1.0.7-1.16.x.jar",
             "MD5": "72aea8ce9f4988b6609683bf96453d72"
           }
         },
@@ -642,7 +642,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 145933,
-            "url": "https://github.com/Spotky1004P/servers/mcbg-1.16.5/forgemods/required/Placebo-1.16.5-4.6.1.jar",
+            "url": "https://raw.githubusercontent.com/Spotky1004P/MCBG-Distribution/main/servers/mcbg-1.16.5/forgemods/required/Placebo-1.16.5-4.6.1.jar",
             "MD5": "ebf00ea62791def51c779ac0c3e7974c"
           }
         },
@@ -652,7 +652,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1180695,
-            "url": "https://github.com/Spotky1004P/servers/mcbg-1.16.5/forgemods/required/projectarsenal-0.3.3-1.16.5.jar",
+            "url": "https://raw.githubusercontent.com/Spotky1004P/MCBG-Distribution/main/servers/mcbg-1.16.5/forgemods/required/projectarsenal-0.3.3-1.16.5.jar",
             "MD5": "2f040e56874d1c363ae64d1807201de0"
           }
         },
@@ -662,7 +662,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 104388,
-            "url": "https://github.com/Spotky1004P/servers/mcbg-1.16.5/forgemods/required/radon-0.8.0a.jar",
+            "url": "https://raw.githubusercontent.com/Spotky1004P/MCBG-Distribution/main/servers/mcbg-1.16.5/forgemods/required/radon-0.8.0a.jar",
             "MD5": "d8fc7bcb28eae4aef5c65306719ba992"
           }
         },
@@ -672,7 +672,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 601605,
-            "url": "https://github.com/Spotky1004P/servers/mcbg-1.16.5/forgemods/required/rubidium-0.2.11.jar",
+            "url": "https://raw.githubusercontent.com/Spotky1004P/MCBG-Distribution/main/servers/mcbg-1.16.5/forgemods/required/rubidium-0.2.11.jar",
             "MD5": "13b5154c4b10a24dc6f85bc4d6938aa6"
           }
         },
@@ -682,7 +682,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 20845,
-            "url": "https://github.com/Spotky1004P/servers/mcbg-1.16.5/forgemods/required/saturn-mc1.16.5-0.0.3.jar",
+            "url": "https://raw.githubusercontent.com/Spotky1004P/MCBG-Distribution/main/servers/mcbg-1.16.5/forgemods/required/saturn-mc1.16.5-0.0.3.jar",
             "MD5": "44f8f173ce399b7ca01e42021555b611"
           }
         },
@@ -692,7 +692,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 84744,
-            "url": "https://github.com/Spotky1004P/servers/mcbg-1.16.5/forgemods/required/smoothboot-forge-1.16.4-1.2.2.jar",
+            "url": "https://raw.githubusercontent.com/Spotky1004P/MCBG-Distribution/main/servers/mcbg-1.16.5/forgemods/required/smoothboot-forge-1.16.4-1.2.2.jar",
             "MD5": "104ca76ce6b18b90fbfa4c58b3bbdfc2"
           }
         },
@@ -702,7 +702,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 205206,
-            "url": "https://github.com/Spotky1004P/servers/mcbg-1.16.5/forgemods/required/supermartijn642configlib-1.1.6-forge-mc1.16.jar",
+            "url": "https://raw.githubusercontent.com/Spotky1004P/MCBG-Distribution/main/servers/mcbg-1.16.5/forgemods/required/supermartijn642configlib-1.1.6-forge-mc1.16.jar",
             "MD5": "04efe250c4498782de3d0e07494f643e"
           }
         },
@@ -712,7 +712,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 480193,
-            "url": "https://github.com/Spotky1004P/servers/mcbg-1.16.5/forgemods/required/supermartijn642corelib-1.1.9a-forge-mc1.16.jar",
+            "url": "https://raw.githubusercontent.com/Spotky1004P/MCBG-Distribution/main/servers/mcbg-1.16.5/forgemods/required/supermartijn642corelib-1.1.9a-forge-mc1.16.jar",
             "MD5": "66e541b2a06d97ca2a9fb18d2c80d86a"
           }
         },
@@ -722,7 +722,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 24755,
-            "url": "https://github.com/Spotky1004P/servers/mcbg-1.16.5/forgemods/required/ToastControl-1.16.5-4.4.0.jar",
+            "url": "https://raw.githubusercontent.com/Spotky1004P/MCBG-Distribution/main/servers/mcbg-1.16.5/forgemods/required/ToastControl-1.16.5-4.4.0.jar",
             "MD5": "241050e152a5c6097da47bc999dc3ec8"
           }
         },
@@ -732,7 +732,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 3397300,
-            "url": "https://github.com/Spotky1004P/servers/mcbg-1.16.5/forgemods/required/vehicle-mod-0.45.2-1.16.3.jar",
+            "url": "https://raw.githubusercontent.com/Spotky1004P/MCBG-Distribution/main/servers/mcbg-1.16.5/forgemods/required/vehicle-mod-0.45.2-1.16.3.jar",
             "MD5": "c2ef69e5bfe25bb9deb11a9b38297fdb"
           }
         },
@@ -742,7 +742,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 7537512,
-            "url": "https://github.com/Spotky1004P/servers/mcbg-1.16.5/forgemods/required/voicechat-forge-1.16.5-2.4.16.jar",
+            "url": "https://raw.githubusercontent.com/Spotky1004P/MCBG-Distribution/main/servers/mcbg-1.16.5/forgemods/required/voicechat-forge-1.16.5-2.4.16.jar",
             "MD5": "b0380adb67b40aa57ee9299853d293d8"
           }
         },
@@ -752,7 +752,7 @@
           "type": "File",
           "artifact": {
             "size": 3364,
-            "url": "https://github.com/Spotky1004P/servers/mcbg-1.16.5/files/config/cgm-client.toml",
+            "url": "https://raw.githubusercontent.com/Spotky1004P/MCBG-Distribution/main/servers/mcbg-1.16.5/files/config/cgm-client.toml",
             "MD5": "2301692ba9adc229dc60f7d888bf158b",
             "path": "config/cgm-client.toml"
           }
@@ -763,7 +763,7 @@
           "type": "File",
           "artifact": {
             "size": 6278,
-            "url": "https://github.com/Spotky1004P/servers/mcbg-1.16.5/files/config/cgm-common.toml",
+            "url": "https://raw.githubusercontent.com/Spotky1004P/MCBG-Distribution/main/servers/mcbg-1.16.5/files/config/cgm-common.toml",
             "MD5": "ace1beac068d26c2daeadd06e50a199a",
             "path": "config/cgm-common.toml"
           }
@@ -774,7 +774,7 @@
           "type": "File",
           "artifact": {
             "size": 1604,
-            "url": "https://github.com/Spotky1004P/servers/mcbg-1.16.5/files/config/chunkloaders-common.toml",
+            "url": "https://raw.githubusercontent.com/Spotky1004P/MCBG-Distribution/main/servers/mcbg-1.16.5/files/config/chunkloaders-common.toml",
             "MD5": "c31eafd381189f3e97624a87e67199be",
             "path": "config/chunkloaders-common.toml"
           }
@@ -785,7 +785,7 @@
           "type": "File",
           "artifact": {
             "size": 830,
-            "url": "https://github.com/Spotky1004P/servers/mcbg-1.16.5/files/config/dummmmmmy-client.toml",
+            "url": "https://raw.githubusercontent.com/Spotky1004P/MCBG-Distribution/main/servers/mcbg-1.16.5/files/config/dummmmmmy-client.toml",
             "MD5": "4cd8fe5eb034bb44be4b84098cc91918",
             "path": "config/dummmmmmy-client.toml"
           }
@@ -796,7 +796,7 @@
           "type": "File",
           "artifact": {
             "size": 369,
-            "url": "https://github.com/Spotky1004P/servers/mcbg-1.16.5/files/config/dummmmmmy-common.toml",
+            "url": "https://raw.githubusercontent.com/Spotky1004P/MCBG-Distribution/main/servers/mcbg-1.16.5/files/config/dummmmmmy-common.toml",
             "MD5": "8d748e8c8d63a3f199a7ede0d964bbbb",
             "path": "config/dummmmmmy-common.toml"
           }
@@ -807,7 +807,7 @@
           "type": "File",
           "artifact": {
             "size": 511,
-            "url": "https://github.com/Spotky1004P/servers/mcbg-1.16.5/files/config/entityculling.json",
+            "url": "https://raw.githubusercontent.com/Spotky1004P/MCBG-Distribution/main/servers/mcbg-1.16.5/files/config/entityculling.json",
             "MD5": "5266dcb4f8c790f8e4e9aedc11181b48",
             "path": "config/entityculling.json"
           }
@@ -818,7 +818,7 @@
           "type": "File",
           "artifact": {
             "size": 1264,
-            "url": "https://github.com/Spotky1004P/servers/mcbg-1.16.5/files/config/ferritecore-mixin.toml",
+            "url": "https://raw.githubusercontent.com/Spotky1004P/MCBG-Distribution/main/servers/mcbg-1.16.5/files/config/ferritecore-mixin.toml",
             "MD5": "acbcc6bc7afd8c86ad12077b89fdfa47",
             "path": "config/ferritecore-mixin.toml"
           }
@@ -829,7 +829,7 @@
           "type": "File",
           "artifact": {
             "size": 242,
-            "url": "https://github.com/Spotky1004P/servers/mcbg-1.16.5/files/config/fml.toml",
+            "url": "https://raw.githubusercontent.com/Spotky1004P/MCBG-Distribution/main/servers/mcbg-1.16.5/files/config/fml.toml",
             "MD5": "5961f97ddaa04677acd58a89aaf3826c",
             "path": "config/fml.toml"
           }
@@ -840,7 +840,7 @@
           "type": "File",
           "artifact": {
             "size": 1359,
-            "url": "https://github.com/Spotky1004P/servers/mcbg-1.16.5/files/config/forge-client.toml",
+            "url": "https://raw.githubusercontent.com/Spotky1004P/MCBG-Distribution/main/servers/mcbg-1.16.5/files/config/forge-client.toml",
             "MD5": "c352e2faa854312ac4bf44773720b53f",
             "path": "config/forge-client.toml"
           }
@@ -851,7 +851,7 @@
           "type": "File",
           "artifact": {
             "size": 310,
-            "url": "https://github.com/Spotky1004P/servers/mcbg-1.16.5/files/config/forge-common.toml",
+            "url": "https://raw.githubusercontent.com/Spotky1004P/MCBG-Distribution/main/servers/mcbg-1.16.5/files/config/forge-common.toml",
             "MD5": "94977d1b9c60ebe6f0cfc34c0bbaa8c8",
             "path": "config/forge-common.toml"
           }
@@ -862,7 +862,7 @@
           "type": "File",
           "artifact": {
             "size": 1308,
-            "url": "https://github.com/Spotky1004P/servers/mcbg-1.16.5/files/config/hitindication-client.toml",
+            "url": "https://raw.githubusercontent.com/Spotky1004P/MCBG-Distribution/main/servers/mcbg-1.16.5/files/config/hitindication-client.toml",
             "MD5": "4ef656cb20912047d93fbcf8fb641a9d",
             "path": "config/hitindication-client.toml"
           }
@@ -873,7 +873,7 @@
           "type": "File",
           "artifact": {
             "size": 1358,
-            "url": "https://github.com/Spotky1004P/servers/mcbg-1.16.5/files/config/ichunutil/themes/aztec.json",
+            "url": "https://raw.githubusercontent.com/Spotky1004P/MCBG-Distribution/main/servers/mcbg-1.16.5/files/config/ichunutil/themes/aztec.json",
             "MD5": "154bb57f4bf82c5e40bbb9bcd6ef87cd",
             "path": "config/ichunutil/themes/aztec.json"
           }
@@ -884,7 +884,7 @@
           "type": "File",
           "artifact": {
             "size": 2276,
-            "url": "https://github.com/Spotky1004P/servers/mcbg-1.16.5/files/config/ichunutil/themes/blue&black.json",
+            "url": "https://raw.githubusercontent.com/Spotky1004P/MCBG-Distribution/main/servers/mcbg-1.16.5/files/config/ichunutil/themes/blue&black.json",
             "MD5": "9be72c050b53dab3a2878455fbda2a49",
             "path": "config/ichunutil/themes/blue&black.json"
           }
@@ -895,7 +895,7 @@
           "type": "File",
           "artifact": {
             "size": 2289,
-            "url": "https://github.com/Spotky1004P/servers/mcbg-1.16.5/files/config/ichunutil/themes/blue&orange.json",
+            "url": "https://raw.githubusercontent.com/Spotky1004P/MCBG-Distribution/main/servers/mcbg-1.16.5/files/config/ichunutil/themes/blue&orange.json",
             "MD5": "145899a1ef9ea8d343f20278076f3a33",
             "path": "config/ichunutil/themes/blue&orange.json"
           }
@@ -906,7 +906,7 @@
           "type": "File",
           "artifact": {
             "size": 1821,
-            "url": "https://github.com/Spotky1004P/servers/mcbg-1.16.5/files/config/ichunutil/themes/default.json",
+            "url": "https://raw.githubusercontent.com/Spotky1004P/MCBG-Distribution/main/servers/mcbg-1.16.5/files/config/ichunutil/themes/default.json",
             "MD5": "c4fe26688c46c7b97c3d2a89727dec19",
             "path": "config/ichunutil/themes/default.json"
           }
@@ -917,7 +917,7 @@
           "type": "File",
           "artifact": {
             "size": 2249,
-            "url": "https://github.com/Spotky1004P/servers/mcbg-1.16.5/files/config/ichunutil/themes/grassgreen.json",
+            "url": "https://raw.githubusercontent.com/Spotky1004P/MCBG-Distribution/main/servers/mcbg-1.16.5/files/config/ichunutil/themes/grassgreen.json",
             "MD5": "4aa192b49a55e5dc9e5a8ea8d469e461",
             "path": "config/ichunutil/themes/grassgreen.json"
           }
@@ -928,7 +928,7 @@
           "type": "File",
           "artifact": {
             "size": 2252,
-            "url": "https://github.com/Spotky1004P/servers/mcbg-1.16.5/files/config/ichunutil/themes/green&black.json",
+            "url": "https://raw.githubusercontent.com/Spotky1004P/MCBG-Distribution/main/servers/mcbg-1.16.5/files/config/ichunutil/themes/green&black.json",
             "MD5": "aa0029709ce441ab9be65d3b3cf1a846",
             "path": "config/ichunutil/themes/green&black.json"
           }
@@ -939,7 +939,7 @@
           "type": "File",
           "artifact": {
             "size": 1976,
-            "url": "https://github.com/Spotky1004P/servers/mcbg-1.16.5/files/config/ichunutil/themes/lazygray.json",
+            "url": "https://raw.githubusercontent.com/Spotky1004P/MCBG-Distribution/main/servers/mcbg-1.16.5/files/config/ichunutil/themes/lazygray.json",
             "MD5": "a1e6062b5692c3aced1e97483a56793f",
             "path": "config/ichunutil/themes/lazygray.json"
           }
@@ -950,7 +950,7 @@
           "type": "File",
           "artifact": {
             "size": 2275,
-            "url": "https://github.com/Spotky1004P/servers/mcbg-1.16.5/files/config/ichunutil/themes/monogeneric.json",
+            "url": "https://raw.githubusercontent.com/Spotky1004P/MCBG-Distribution/main/servers/mcbg-1.16.5/files/config/ichunutil/themes/monogeneric.json",
             "MD5": "7b91a3284c4d3faf30d68a58b779a376",
             "path": "config/ichunutil/themes/monogeneric.json"
           }
@@ -961,7 +961,7 @@
           "type": "File",
           "artifact": {
             "size": 1916,
-            "url": "https://github.com/Spotky1004P/servers/mcbg-1.16.5/files/config/ichunutil/themes/nightblack.json",
+            "url": "https://raw.githubusercontent.com/Spotky1004P/MCBG-Distribution/main/servers/mcbg-1.16.5/files/config/ichunutil/themes/nightblack.json",
             "MD5": "cea5ee3d0d252088b55411fa8f3ff3cd",
             "path": "config/ichunutil/themes/nightblack.json"
           }
@@ -972,7 +972,7 @@
           "type": "File",
           "artifact": {
             "size": 2297,
-            "url": "https://github.com/Spotky1004P/servers/mcbg-1.16.5/files/config/ichunutil/themes/red&black.json",
+            "url": "https://raw.githubusercontent.com/Spotky1004P/MCBG-Distribution/main/servers/mcbg-1.16.5/files/config/ichunutil/themes/red&black.json",
             "MD5": "f0d7f9e44f4f82dab5a4291d53c6b10e",
             "path": "config/ichunutil/themes/red&black.json"
           }
@@ -983,7 +983,7 @@
           "type": "File",
           "artifact": {
             "size": 2295,
-            "url": "https://github.com/Spotky1004P/servers/mcbg-1.16.5/files/config/ichunutil/themes/skyblue.json",
+            "url": "https://raw.githubusercontent.com/Spotky1004P/MCBG-Distribution/main/servers/mcbg-1.16.5/files/config/ichunutil/themes/skyblue.json",
             "MD5": "42163d741f8311c9ae312142c19226e1",
             "path": "config/ichunutil/themes/skyblue.json"
           }
@@ -994,7 +994,7 @@
           "type": "File",
           "artifact": {
             "size": 1997,
-            "url": "https://github.com/Spotky1004P/servers/mcbg-1.16.5/files/config/ichunutil/themes/whitelight.json",
+            "url": "https://raw.githubusercontent.com/Spotky1004P/MCBG-Distribution/main/servers/mcbg-1.16.5/files/config/ichunutil/themes/whitelight.json",
             "MD5": "0f7d8b22cb98fedc2a79830e91a39b80",
             "path": "config/ichunutil/themes/whitelight.json"
           }
@@ -1005,7 +1005,7 @@
           "type": "File",
           "artifact": {
             "size": 1438,
-            "url": "https://github.com/Spotky1004P/servers/mcbg-1.16.5/files/config/ichunutil.toml",
+            "url": "https://raw.githubusercontent.com/Spotky1004P/MCBG-Distribution/main/servers/mcbg-1.16.5/files/config/ichunutil.toml",
             "MD5": "8168ca8229f5168c4e42aa70c3c6aaba",
             "path": "config/ichunutil.toml"
           }
@@ -1016,7 +1016,7 @@
           "type": "File",
           "artifact": {
             "size": 919,
-            "url": "https://github.com/Spotky1004P/servers/mcbg-1.16.5/files/config/invmove/unrecognized.json",
+            "url": "https://raw.githubusercontent.com/Spotky1004P/MCBG-Distribution/main/servers/mcbg-1.16.5/files/config/invmove/unrecognized.json",
             "MD5": "6e653d44769c3aba46012e6f8b0d0aff",
             "path": "config/invmove/unrecognized.json"
           }
@@ -1027,7 +1027,7 @@
           "type": "File",
           "artifact": {
             "size": 1024,
-            "url": "https://github.com/Spotky1004P/servers/mcbg-1.16.5/files/config/invmove/vanilla.json",
+            "url": "https://raw.githubusercontent.com/Spotky1004P/MCBG-Distribution/main/servers/mcbg-1.16.5/files/config/invmove/vanilla.json",
             "MD5": "292ba3a6f16d65c93b621cc0def177c3",
             "path": "config/invmove/vanilla.json"
           }
@@ -1038,7 +1038,7 @@
           "type": "File",
           "artifact": {
             "size": 352,
-            "url": "https://github.com/Spotky1004P/servers/mcbg-1.16.5/files/config/invmove.json",
+            "url": "https://raw.githubusercontent.com/Spotky1004P/MCBG-Distribution/main/servers/mcbg-1.16.5/files/config/invmove.json",
             "MD5": "a55bbdc26788256d72c0bba8eaaca596",
             "path": "config/invmove.json"
           }
@@ -1049,7 +1049,7 @@
           "type": "File",
           "artifact": {
             "size": 278,
-            "url": "https://github.com/Spotky1004P/servers/mcbg-1.16.5/files/config/MCBG-items.toml",
+            "url": "https://raw.githubusercontent.com/Spotky1004P/MCBG-Distribution/main/servers/mcbg-1.16.5/files/config/MCBG-items.toml",
             "MD5": "4e2aa193543ae4a3e11655e363265f07",
             "path": "config/MCBG-items.toml"
           }
@@ -1060,7 +1060,7 @@
           "type": "File",
           "artifact": {
             "size": 107,
-            "url": "https://github.com/Spotky1004P/servers/mcbg-1.16.5/files/config/modernfix-common.toml",
+            "url": "https://raw.githubusercontent.com/Spotky1004P/MCBG-Distribution/main/servers/mcbg-1.16.5/files/config/modernfix-common.toml",
             "MD5": "1d50de2e9c0bda2952844de7a3306d10",
             "path": "config/modernfix-common.toml"
           }
@@ -1071,7 +1071,7 @@
           "type": "File",
           "artifact": {
             "size": 4546,
-            "url": "https://github.com/Spotky1004P/servers/mcbg-1.16.5/files/config/modernfix-mixins.properties",
+            "url": "https://raw.githubusercontent.com/Spotky1004P/MCBG-Distribution/main/servers/mcbg-1.16.5/files/config/modernfix-mixins.properties",
             "MD5": "d4a5bbf93b21df7621774d7e57b02bf4",
             "path": "config/modernfix-mixins.properties"
           }
@@ -1082,7 +1082,7 @@
           "type": "File",
           "artifact": {
             "size": 135,
-            "url": "https://github.com/Spotky1004P/servers/mcbg-1.16.5/files/config/MouseTweaks.cfg",
+            "url": "https://raw.githubusercontent.com/Spotky1004P/MCBG-Distribution/main/servers/mcbg-1.16.5/files/config/MouseTweaks.cfg",
             "MD5": "ff577ca09e989c07c056c7cdff465be3",
             "path": "config/MouseTweaks.cfg"
           }
@@ -1093,7 +1093,7 @@
           "type": "File",
           "artifact": {
             "size": 1218,
-            "url": "https://github.com/Spotky1004P/servers/mcbg-1.16.5/files/config/projectarsenal-client.toml",
+            "url": "https://raw.githubusercontent.com/Spotky1004P/MCBG-Distribution/main/servers/mcbg-1.16.5/files/config/projectarsenal-client.toml",
             "MD5": "61cd439a841fd2967941af1201d95d51",
             "path": "config/projectarsenal-client.toml"
           }
@@ -1104,7 +1104,7 @@
           "type": "File",
           "artifact": {
             "size": 490,
-            "url": "https://github.com/Spotky1004P/servers/mcbg-1.16.5/files/config/projectarsenal-common.toml",
+            "url": "https://raw.githubusercontent.com/Spotky1004P/MCBG-Distribution/main/servers/mcbg-1.16.5/files/config/projectarsenal-common.toml",
             "MD5": "13c14fda25b2d79f9f64f835653b4225",
             "path": "config/projectarsenal-common.toml"
           }
@@ -1115,7 +1115,7 @@
           "type": "File",
           "artifact": {
             "size": 2,
-            "url": "https://github.com/Spotky1004P/servers/mcbg-1.16.5/files/config/roadrunner/client.toml",
+            "url": "https://raw.githubusercontent.com/Spotky1004P/MCBG-Distribution/main/servers/mcbg-1.16.5/files/config/roadrunner/client.toml",
             "MD5": "81051bcc2cf1bedf378224b0a93e2877",
             "path": "config/roadrunner/client.toml"
           }
@@ -1126,7 +1126,7 @@
           "type": "File",
           "artifact": {
             "size": 544,
-            "url": "https://github.com/Spotky1004P/servers/mcbg-1.16.5/files/config/roadrunner/common.toml",
+            "url": "https://raw.githubusercontent.com/Spotky1004P/MCBG-Distribution/main/servers/mcbg-1.16.5/files/config/roadrunner/common.toml",
             "MD5": "4118bd176342c8e31443fe71994ab123",
             "path": "config/roadrunner/common.toml"
           }
@@ -1137,7 +1137,7 @@
           "type": "File",
           "artifact": {
             "size": 368,
-            "url": "https://github.com/Spotky1004P/servers/mcbg-1.16.5/files/config/roadrunner/rules.properties",
+            "url": "https://raw.githubusercontent.com/Spotky1004P/MCBG-Distribution/main/servers/mcbg-1.16.5/files/config/roadrunner/rules.properties",
             "MD5": "48c1f586f322954eb49ad4a368ecd87c",
             "path": "config/roadrunner/rules.properties"
           }
@@ -1148,7 +1148,7 @@
           "type": "File",
           "artifact": {
             "size": 266,
-            "url": "https://github.com/Spotky1004P/servers/mcbg-1.16.5/files/config/rubidium-mixins.properties",
+            "url": "https://raw.githubusercontent.com/Spotky1004P/MCBG-Distribution/main/servers/mcbg-1.16.5/files/config/rubidium-mixins.properties",
             "MD5": "6f5f12de22f04364e57a623174cf1484",
             "path": "config/rubidium-mixins.properties"
           }
@@ -1159,7 +1159,7 @@
           "type": "File",
           "artifact": {
             "size": 739,
-            "url": "https://github.com/Spotky1004P/servers/mcbg-1.16.5/files/config/rubidium-options.json",
+            "url": "https://raw.githubusercontent.com/Spotky1004P/MCBG-Distribution/main/servers/mcbg-1.16.5/files/config/rubidium-options.json",
             "MD5": "7a4b508d2cc3880c37eb0cae5c4e78b8",
             "path": "config/rubidium-options.json"
           }
@@ -1170,7 +1170,7 @@
           "type": "File",
           "artifact": {
             "size": 118,
-            "url": "https://github.com/Spotky1004P/servers/mcbg-1.16.5/files/config/sidebar_buttons.json",
+            "url": "https://raw.githubusercontent.com/Spotky1004P/MCBG-Distribution/main/servers/mcbg-1.16.5/files/config/sidebar_buttons.json",
             "MD5": "7a034b380689002c97760c5fe634bed3",
             "path": "config/sidebar_buttons.json"
           }
@@ -1181,7 +1181,7 @@
           "type": "File",
           "artifact": {
             "size": 195,
-            "url": "https://github.com/Spotky1004P/servers/mcbg-1.16.5/files/config/smoothboot.json",
+            "url": "https://raw.githubusercontent.com/Spotky1004P/MCBG-Distribution/main/servers/mcbg-1.16.5/files/config/smoothboot.json",
             "MD5": "fbcd535d6d08618f2e1019fd0ce675e7",
             "path": "config/smoothboot.json"
           }
@@ -1192,7 +1192,7 @@
           "type": "File",
           "artifact": {
             "size": 1445,
-            "url": "https://github.com/Spotky1004P/servers/mcbg-1.16.5/files/config/toastcontrol-common.toml",
+            "url": "https://raw.githubusercontent.com/Spotky1004P/MCBG-Distribution/main/servers/mcbg-1.16.5/files/config/toastcontrol-common.toml",
             "MD5": "873395ed751541bddf9b3527d2018aeb",
             "path": "config/toastcontrol-common.toml"
           }
@@ -1203,7 +1203,7 @@
           "type": "File",
           "artifact": {
             "size": 1800,
-            "url": "https://github.com/Spotky1004P/servers/mcbg-1.16.5/files/config/vehicle-client.toml",
+            "url": "https://raw.githubusercontent.com/Spotky1004P/MCBG-Distribution/main/servers/mcbg-1.16.5/files/config/vehicle-client.toml",
             "MD5": "e62b8fff32fbee68daa2f22629899940",
             "path": "config/vehicle-client.toml"
           }
@@ -1214,7 +1214,7 @@
           "type": "File",
           "artifact": {
             "size": 1133,
-            "url": "https://github.com/Spotky1004P/servers/mcbg-1.16.5/files/config/voicechat/translations.properties",
+            "url": "https://raw.githubusercontent.com/Spotky1004P/MCBG-Distribution/main/servers/mcbg-1.16.5/files/config/voicechat/translations.properties",
             "MD5": "3847ec6998814d22e66360d37201fcc9",
             "path": "config/voicechat/translations.properties"
           }
@@ -1225,7 +1225,7 @@
           "type": "File",
           "artifact": {
             "size": 11060,
-            "url": "https://github.com/Spotky1004P/servers/mcbg-1.16.5/files/config/voicechat/username-cache.json",
+            "url": "https://raw.githubusercontent.com/Spotky1004P/MCBG-Distribution/main/servers/mcbg-1.16.5/files/config/voicechat/username-cache.json",
             "MD5": "2af61896c58ea492765eaa31623df1e4",
             "path": "config/voicechat/username-cache.json"
           }
@@ -1236,7 +1236,7 @@
           "type": "File",
           "artifact": {
             "size": 3466,
-            "url": "https://github.com/Spotky1004P/servers/mcbg-1.16.5/files/config/voicechat/voicechat-client.properties",
+            "url": "https://raw.githubusercontent.com/Spotky1004P/MCBG-Distribution/main/servers/mcbg-1.16.5/files/config/voicechat/voicechat-client.properties",
             "MD5": "4af538ffd129891929196d83d4255524",
             "path": "config/voicechat/voicechat-client.properties"
           }
@@ -1247,7 +1247,7 @@
           "type": "File",
           "artifact": {
             "size": 1793,
-            "url": "https://github.com/Spotky1004P/servers/mcbg-1.16.5/files/config/voicechat/voicechat-server.properties",
+            "url": "https://raw.githubusercontent.com/Spotky1004P/MCBG-Distribution/main/servers/mcbg-1.16.5/files/config/voicechat/voicechat-server.properties",
             "MD5": "d6884405cd4ebd8b5a7281fca543acfb",
             "path": "config/voicechat/voicechat-server.properties"
           }
@@ -1258,7 +1258,7 @@
           "type": "File",
           "artifact": {
             "size": 94,
-            "url": "https://github.com/Spotky1004P/servers/mcbg-1.16.5/files/config/voicechat-client.toml",
+            "url": "https://raw.githubusercontent.com/Spotky1004P/MCBG-Distribution/main/servers/mcbg-1.16.5/files/config/voicechat-client.toml",
             "MD5": "2fb2989fe60bf9a60eb6e8946ce4bb12",
             "path": "config/voicechat-client.toml"
           }
@@ -1269,7 +1269,7 @@
           "type": "File",
           "artifact": {
             "size": 4448,
-            "url": "https://github.com/Spotky1004P/servers/mcbg-1.16.5/files/options.txt",
+            "url": "https://raw.githubusercontent.com/Spotky1004P/MCBG-Distribution/main/servers/mcbg-1.16.5/files/options.txt",
             "MD5": "f5ea9254f864745c812c42cbad73e53b",
             "path": "options.txt"
           }
@@ -1280,7 +1280,7 @@
           "type": "File",
           "artifact": {
             "size": 3375,
-            "url": "https://github.com/Spotky1004P/servers/mcbg-1.16.5/files/saves/%ED%9B%88%EB%A0%A8/advancements/f9803129-d7d4-4926-8f58-988d2e8c032d.json",
+            "url": "https://raw.githubusercontent.com/Spotky1004P/MCBG-Distribution/main/servers/mcbg-1.16.5/files/saves/%ED%9B%88%EB%A0%A8/advancements/f9803129-d7d4-4926-8f58-988d2e8c032d.json",
             "MD5": "ad70feb9e52352334bce6819f6d04847",
             "path": "saves/훈련/advancements/f9803129-d7d4-4926-8f58-988d2e8c032d.json"
           }
@@ -1291,7 +1291,7 @@
           "type": "File",
           "artifact": {
             "size": 62,
-            "url": "https://github.com/Spotky1004P/servers/mcbg-1.16.5/files/saves/%ED%9B%88%EB%A0%A8/chunkloaders/active_players.nbt",
+            "url": "https://raw.githubusercontent.com/Spotky1004P/MCBG-Distribution/main/servers/mcbg-1.16.5/files/saves/%ED%9B%88%EB%A0%A8/chunkloaders/active_players.nbt",
             "MD5": "3c6566f574631c218942ef8c053f20ea",
             "path": "saves/훈련/chunkloaders/active_players.nbt"
           }
@@ -1302,7 +1302,7 @@
           "type": "File",
           "artifact": {
             "size": 1327,
-            "url": "https://github.com/Spotky1004P/servers/mcbg-1.16.5/files/saves/%ED%9B%88%EB%A0%A8/data/battlefield_GameData.dat",
+            "url": "https://raw.githubusercontent.com/Spotky1004P/MCBG-Distribution/main/servers/mcbg-1.16.5/files/saves/%ED%9B%88%EB%A0%A8/data/battlefield_GameData.dat",
             "MD5": "d3d630b7756090d40e173cfa40f64ed2",
             "path": "saves/훈련/data/battlefield_GameData.dat"
           }
@@ -1313,7 +1313,7 @@
           "type": "File",
           "artifact": {
             "size": 130,
-            "url": "https://github.com/Spotky1004P/servers/mcbg-1.16.5/files/saves/%ED%9B%88%EB%A0%A8/data/capabilities.dat",
+            "url": "https://raw.githubusercontent.com/Spotky1004P/MCBG-Distribution/main/servers/mcbg-1.16.5/files/saves/%ED%9B%88%EB%A0%A8/data/capabilities.dat",
             "MD5": "1b802032a5d4234ce25d02051f4333a6",
             "path": "saves/훈련/data/capabilities.dat"
           }
@@ -1324,7 +1324,7 @@
           "type": "File",
           "artifact": {
             "size": 89,
-            "url": "https://github.com/Spotky1004P/servers/mcbg-1.16.5/files/saves/%ED%9B%88%EB%A0%A8/data/raids.dat",
+            "url": "https://raw.githubusercontent.com/Spotky1004P/MCBG-Distribution/main/servers/mcbg-1.16.5/files/saves/%ED%9B%88%EB%A0%A8/data/raids.dat",
             "MD5": "942638fb5d72354b9c2efdc877096b69",
             "path": "saves/훈련/data/raids.dat"
           }
@@ -1335,7 +1335,7 @@
           "type": "File",
           "artifact": {
             "size": 1327,
-            "url": "https://github.com/Spotky1004P/servers/mcbg-1.16.5/files/saves/%ED%9B%88%EB%A0%A8/DIM-1/data/battlefield_GameData.dat",
+            "url": "https://raw.githubusercontent.com/Spotky1004P/MCBG-Distribution/main/servers/mcbg-1.16.5/files/saves/%ED%9B%88%EB%A0%A8/DIM-1/data/battlefield_GameData.dat",
             "MD5": "d3d630b7756090d40e173cfa40f64ed2",
             "path": "saves/훈련/DIM-1/data/battlefield_GameData.dat"
           }
@@ -1346,7 +1346,7 @@
           "type": "File",
           "artifact": {
             "size": 130,
-            "url": "https://github.com/Spotky1004P/servers/mcbg-1.16.5/files/saves/%ED%9B%88%EB%A0%A8/DIM-1/data/capabilities.dat",
+            "url": "https://raw.githubusercontent.com/Spotky1004P/MCBG-Distribution/main/servers/mcbg-1.16.5/files/saves/%ED%9B%88%EB%A0%A8/DIM-1/data/capabilities.dat",
             "MD5": "1b802032a5d4234ce25d02051f4333a6",
             "path": "saves/훈련/DIM-1/data/capabilities.dat"
           }
@@ -1357,7 +1357,7 @@
           "type": "File",
           "artifact": {
             "size": 89,
-            "url": "https://github.com/Spotky1004P/servers/mcbg-1.16.5/files/saves/%ED%9B%88%EB%A0%A8/DIM-1/data/raids.dat",
+            "url": "https://raw.githubusercontent.com/Spotky1004P/MCBG-Distribution/main/servers/mcbg-1.16.5/files/saves/%ED%9B%88%EB%A0%A8/DIM-1/data/raids.dat",
             "MD5": "942638fb5d72354b9c2efdc877096b69",
             "path": "saves/훈련/DIM-1/data/raids.dat"
           }
@@ -1368,7 +1368,7 @@
           "type": "File",
           "artifact": {
             "size": 1327,
-            "url": "https://github.com/Spotky1004P/servers/mcbg-1.16.5/files/saves/%ED%9B%88%EB%A0%A8/DIM1/data/battlefield_GameData.dat",
+            "url": "https://raw.githubusercontent.com/Spotky1004P/MCBG-Distribution/main/servers/mcbg-1.16.5/files/saves/%ED%9B%88%EB%A0%A8/DIM1/data/battlefield_GameData.dat",
             "MD5": "d3d630b7756090d40e173cfa40f64ed2",
             "path": "saves/훈련/DIM1/data/battlefield_GameData.dat"
           }
@@ -1379,7 +1379,7 @@
           "type": "File",
           "artifact": {
             "size": 130,
-            "url": "https://github.com/Spotky1004P/servers/mcbg-1.16.5/files/saves/%ED%9B%88%EB%A0%A8/DIM1/data/capabilities.dat",
+            "url": "https://raw.githubusercontent.com/Spotky1004P/MCBG-Distribution/main/servers/mcbg-1.16.5/files/saves/%ED%9B%88%EB%A0%A8/DIM1/data/capabilities.dat",
             "MD5": "1b802032a5d4234ce25d02051f4333a6",
             "path": "saves/훈련/DIM1/data/capabilities.dat"
           }
@@ -1390,7 +1390,7 @@
           "type": "File",
           "artifact": {
             "size": 89,
-            "url": "https://github.com/Spotky1004P/servers/mcbg-1.16.5/files/saves/%ED%9B%88%EB%A0%A8/DIM1/data/raids_end.dat",
+            "url": "https://raw.githubusercontent.com/Spotky1004P/MCBG-Distribution/main/servers/mcbg-1.16.5/files/saves/%ED%9B%88%EB%A0%A8/DIM1/data/raids_end.dat",
             "MD5": "942638fb5d72354b9c2efdc877096b69",
             "path": "saves/훈련/DIM1/data/raids_end.dat"
           }
@@ -1401,7 +1401,7 @@
           "type": "File",
           "artifact": {
             "size": 11239,
-            "url": "https://github.com/Spotky1004P/servers/mcbg-1.16.5/files/saves/%ED%9B%88%EB%A0%A8/icon.png",
+            "url": "https://raw.githubusercontent.com/Spotky1004P/MCBG-Distribution/main/servers/mcbg-1.16.5/files/saves/%ED%9B%88%EB%A0%A8/icon.png",
             "MD5": "9049cdca1a473a7a1522ec34871281b6",
             "path": "saves/훈련/icon.png"
           }
@@ -1412,7 +1412,7 @@
           "type": "File",
           "artifact": {
             "size": 33888,
-            "url": "https://github.com/Spotky1004P/servers/mcbg-1.16.5/files/saves/%ED%9B%88%EB%A0%A8/level.dat",
+            "url": "https://raw.githubusercontent.com/Spotky1004P/MCBG-Distribution/main/servers/mcbg-1.16.5/files/saves/%ED%9B%88%EB%A0%A8/level.dat",
             "MD5": "86692f497aeac4ee5dbd0b87bfd5c72e",
             "path": "saves/훈련/level.dat"
           }
@@ -1423,7 +1423,7 @@
           "type": "File",
           "artifact": {
             "size": 33887,
-            "url": "https://github.com/Spotky1004P/servers/mcbg-1.16.5/files/saves/%ED%9B%88%EB%A0%A8/level.dat_old",
+            "url": "https://raw.githubusercontent.com/Spotky1004P/MCBG-Distribution/main/servers/mcbg-1.16.5/files/saves/%ED%9B%88%EB%A0%A8/level.dat_old",
             "MD5": "9968fcb36d6b946a56e7c6554ac13497",
             "path": "saves/훈련/level.dat_old"
           }
@@ -1434,7 +1434,7 @@
           "type": "File",
           "artifact": {
             "size": 1474,
-            "url": "https://github.com/Spotky1004P/servers/mcbg-1.16.5/files/saves/%ED%9B%88%EB%A0%A8/playerdata/f9803129-d7d4-4926-8f58-988d2e8c032d.dat",
+            "url": "https://raw.githubusercontent.com/Spotky1004P/MCBG-Distribution/main/servers/mcbg-1.16.5/files/saves/%ED%9B%88%EB%A0%A8/playerdata/f9803129-d7d4-4926-8f58-988d2e8c032d.dat",
             "MD5": "099d233ea96a23db7d217a5e2193ccab",
             "path": "saves/훈련/playerdata/f9803129-d7d4-4926-8f58-988d2e8c032d.dat"
           }
@@ -1445,7 +1445,7 @@
           "type": "File",
           "artifact": {
             "size": 1472,
-            "url": "https://github.com/Spotky1004P/servers/mcbg-1.16.5/files/saves/%ED%9B%88%EB%A0%A8/playerdata/f9803129-d7d4-4926-8f58-988d2e8c032d.dat_old",
+            "url": "https://raw.githubusercontent.com/Spotky1004P/MCBG-Distribution/main/servers/mcbg-1.16.5/files/saves/%ED%9B%88%EB%A0%A8/playerdata/f9803129-d7d4-4926-8f58-988d2e8c032d.dat_old",
             "MD5": "6e732f923f52759fef8d7241fa693892",
             "path": "saves/훈련/playerdata/f9803129-d7d4-4926-8f58-988d2e8c032d.dat_old"
           }
@@ -1456,7 +1456,7 @@
           "type": "File",
           "artifact": {
             "size": 0,
-            "url": "https://github.com/Spotky1004P/servers/mcbg-1.16.5/files/saves/%ED%9B%88%EB%A0%A8/poi/r.-1.-1.mca",
+            "url": "https://raw.githubusercontent.com/Spotky1004P/MCBG-Distribution/main/servers/mcbg-1.16.5/files/saves/%ED%9B%88%EB%A0%A8/poi/r.-1.-1.mca",
             "MD5": "d41d8cd98f00b204e9800998ecf8427e",
             "path": "saves/훈련/poi/r.-1.-1.mca"
           }
@@ -1467,7 +1467,7 @@
           "type": "File",
           "artifact": {
             "size": 0,
-            "url": "https://github.com/Spotky1004P/servers/mcbg-1.16.5/files/saves/%ED%9B%88%EB%A0%A8/poi/r.-1.0.mca",
+            "url": "https://raw.githubusercontent.com/Spotky1004P/MCBG-Distribution/main/servers/mcbg-1.16.5/files/saves/%ED%9B%88%EB%A0%A8/poi/r.-1.0.mca",
             "MD5": "d41d8cd98f00b204e9800998ecf8427e",
             "path": "saves/훈련/poi/r.-1.0.mca"
           }
@@ -1478,7 +1478,7 @@
           "type": "File",
           "artifact": {
             "size": 0,
-            "url": "https://github.com/Spotky1004P/servers/mcbg-1.16.5/files/saves/%ED%9B%88%EB%A0%A8/poi/r.-2.-1.mca",
+            "url": "https://raw.githubusercontent.com/Spotky1004P/MCBG-Distribution/main/servers/mcbg-1.16.5/files/saves/%ED%9B%88%EB%A0%A8/poi/r.-2.-1.mca",
             "MD5": "d41d8cd98f00b204e9800998ecf8427e",
             "path": "saves/훈련/poi/r.-2.-1.mca"
           }
@@ -1489,7 +1489,7 @@
           "type": "File",
           "artifact": {
             "size": 0,
-            "url": "https://github.com/Spotky1004P/servers/mcbg-1.16.5/files/saves/%ED%9B%88%EB%A0%A8/poi/r.-2.0.mca",
+            "url": "https://raw.githubusercontent.com/Spotky1004P/MCBG-Distribution/main/servers/mcbg-1.16.5/files/saves/%ED%9B%88%EB%A0%A8/poi/r.-2.0.mca",
             "MD5": "d41d8cd98f00b204e9800998ecf8427e",
             "path": "saves/훈련/poi/r.-2.0.mca"
           }
@@ -1500,7 +1500,7 @@
           "type": "File",
           "artifact": {
             "size": 12288,
-            "url": "https://github.com/Spotky1004P/servers/mcbg-1.16.5/files/saves/%ED%9B%88%EB%A0%A8/poi/r.0.-1.mca",
+            "url": "https://raw.githubusercontent.com/Spotky1004P/MCBG-Distribution/main/servers/mcbg-1.16.5/files/saves/%ED%9B%88%EB%A0%A8/poi/r.0.-1.mca",
             "MD5": "297d6db72f329d723602d73ffa303190",
             "path": "saves/훈련/poi/r.0.-1.mca"
           }
@@ -1511,7 +1511,7 @@
           "type": "File",
           "artifact": {
             "size": 0,
-            "url": "https://github.com/Spotky1004P/servers/mcbg-1.16.5/files/saves/%ED%9B%88%EB%A0%A8/poi/r.0.0.mca",
+            "url": "https://raw.githubusercontent.com/Spotky1004P/MCBG-Distribution/main/servers/mcbg-1.16.5/files/saves/%ED%9B%88%EB%A0%A8/poi/r.0.0.mca",
             "MD5": "d41d8cd98f00b204e9800998ecf8427e",
             "path": "saves/훈련/poi/r.0.0.mca"
           }
@@ -1522,7 +1522,7 @@
           "type": "File",
           "artifact": {
             "size": 5935104,
-            "url": "https://github.com/Spotky1004P/servers/mcbg-1.16.5/files/saves/%ED%9B%88%EB%A0%A8/region/r.-1.-1.mca",
+            "url": "https://raw.githubusercontent.com/Spotky1004P/MCBG-Distribution/main/servers/mcbg-1.16.5/files/saves/%ED%9B%88%EB%A0%A8/region/r.-1.-1.mca",
             "MD5": "b278d3e4f0ec06c715c9e3d599ef0c52",
             "path": "saves/훈련/region/r.-1.-1.mca"
           }
@@ -1533,7 +1533,7 @@
           "type": "File",
           "artifact": {
             "size": 356352,
-            "url": "https://github.com/Spotky1004P/servers/mcbg-1.16.5/files/saves/%ED%9B%88%EB%A0%A8/region/r.-1.-2.mca",
+            "url": "https://raw.githubusercontent.com/Spotky1004P/MCBG-Distribution/main/servers/mcbg-1.16.5/files/saves/%ED%9B%88%EB%A0%A8/region/r.-1.-2.mca",
             "MD5": "ff7fa3249f6ab6019c3ab1f9ff319bc3",
             "path": "saves/훈련/region/r.-1.-2.mca"
           }
@@ -1544,7 +1544,7 @@
           "type": "File",
           "artifact": {
             "size": 1761280,
-            "url": "https://github.com/Spotky1004P/servers/mcbg-1.16.5/files/saves/%ED%9B%88%EB%A0%A8/region/r.-1.0.mca",
+            "url": "https://raw.githubusercontent.com/Spotky1004P/MCBG-Distribution/main/servers/mcbg-1.16.5/files/saves/%ED%9B%88%EB%A0%A8/region/r.-1.0.mca",
             "MD5": "16cfdf8192fa814c739980b6e6e1a710",
             "path": "saves/훈련/region/r.-1.0.mca"
           }
@@ -1555,7 +1555,7 @@
           "type": "File",
           "artifact": {
             "size": 1003520,
-            "url": "https://github.com/Spotky1004P/servers/mcbg-1.16.5/files/saves/%ED%9B%88%EB%A0%A8/region/r.-2.-1.mca",
+            "url": "https://raw.githubusercontent.com/Spotky1004P/MCBG-Distribution/main/servers/mcbg-1.16.5/files/saves/%ED%9B%88%EB%A0%A8/region/r.-2.-1.mca",
             "MD5": "229e9f8e4ea9a1fc26da910d30dd500e",
             "path": "saves/훈련/region/r.-2.-1.mca"
           }
@@ -1566,7 +1566,7 @@
           "type": "File",
           "artifact": {
             "size": 344064,
-            "url": "https://github.com/Spotky1004P/servers/mcbg-1.16.5/files/saves/%ED%9B%88%EB%A0%A8/region/r.-2.-2.mca",
+            "url": "https://raw.githubusercontent.com/Spotky1004P/MCBG-Distribution/main/servers/mcbg-1.16.5/files/saves/%ED%9B%88%EB%A0%A8/region/r.-2.-2.mca",
             "MD5": "04fa494d5e880d0b0df1c43ea455443b",
             "path": "saves/훈련/region/r.-2.-2.mca"
           }
@@ -1577,7 +1577,7 @@
           "type": "File",
           "artifact": {
             "size": 634880,
-            "url": "https://github.com/Spotky1004P/servers/mcbg-1.16.5/files/saves/%ED%9B%88%EB%A0%A8/region/r.-2.0.mca",
+            "url": "https://raw.githubusercontent.com/Spotky1004P/MCBG-Distribution/main/servers/mcbg-1.16.5/files/saves/%ED%9B%88%EB%A0%A8/region/r.-2.0.mca",
             "MD5": "aa8086c42febb419a27e9be1aa9a6242",
             "path": "saves/훈련/region/r.-2.0.mca"
           }
@@ -1588,7 +1588,7 @@
           "type": "File",
           "artifact": {
             "size": 1093632,
-            "url": "https://github.com/Spotky1004P/servers/mcbg-1.16.5/files/saves/%ED%9B%88%EB%A0%A8/region/r.0.-1.mca",
+            "url": "https://raw.githubusercontent.com/Spotky1004P/MCBG-Distribution/main/servers/mcbg-1.16.5/files/saves/%ED%9B%88%EB%A0%A8/region/r.0.-1.mca",
             "MD5": "0c4a95f96041467c4427e42f9d960557",
             "path": "saves/훈련/region/r.0.-1.mca"
           }
@@ -1599,7 +1599,7 @@
           "type": "File",
           "artifact": {
             "size": 339968,
-            "url": "https://github.com/Spotky1004P/servers/mcbg-1.16.5/files/saves/%ED%9B%88%EB%A0%A8/region/r.0.-2.mca",
+            "url": "https://raw.githubusercontent.com/Spotky1004P/MCBG-Distribution/main/servers/mcbg-1.16.5/files/saves/%ED%9B%88%EB%A0%A8/region/r.0.-2.mca",
             "MD5": "0f443cda64240fe00b0d83d8685af7a3",
             "path": "saves/훈련/region/r.0.-2.mca"
           }
@@ -1610,7 +1610,7 @@
           "type": "File",
           "artifact": {
             "size": 430080,
-            "url": "https://github.com/Spotky1004P/servers/mcbg-1.16.5/files/saves/%ED%9B%88%EB%A0%A8/region/r.0.0.mca",
+            "url": "https://raw.githubusercontent.com/Spotky1004P/MCBG-Distribution/main/servers/mcbg-1.16.5/files/saves/%ED%9B%88%EB%A0%A8/region/r.0.0.mca",
             "MD5": "b208bb187d76c7de93f3a6a55e80409d",
             "path": "saves/훈련/region/r.0.0.mca"
           }
@@ -1621,7 +1621,7 @@
           "type": "File",
           "artifact": {
             "size": 1724,
-            "url": "https://github.com/Spotky1004P/servers/mcbg-1.16.5/files/saves/%ED%9B%88%EB%A0%A8/serverconfig/cgm-server.toml",
+            "url": "https://raw.githubusercontent.com/Spotky1004P/MCBG-Distribution/main/servers/mcbg-1.16.5/files/saves/%ED%9B%88%EB%A0%A8/serverconfig/cgm-server.toml",
             "MD5": "b20a03e19b96acd4e2c60ed2fea65756",
             "path": "saves/훈련/serverconfig/cgm-server.toml"
           }
@@ -1632,7 +1632,7 @@
           "type": "File",
           "artifact": {
             "size": 2093,
-            "url": "https://github.com/Spotky1004P/servers/mcbg-1.16.5/files/saves/%ED%9B%88%EB%A0%A8/serverconfig/forge-server.toml",
+            "url": "https://raw.githubusercontent.com/Spotky1004P/MCBG-Distribution/main/servers/mcbg-1.16.5/files/saves/%ED%9B%88%EB%A0%A8/serverconfig/forge-server.toml",
             "MD5": "1ee8f67e9b382825e16b60fa63f6dfa8",
             "path": "saves/훈련/serverconfig/forge-server.toml"
           }
@@ -1643,7 +1643,7 @@
           "type": "File",
           "artifact": {
             "size": 5,
-            "url": "https://github.com/Spotky1004P/servers/mcbg-1.16.5/files/saves/%ED%9B%88%EB%A0%A8/serverconfig/ftbranks/players.snbt",
+            "url": "https://raw.githubusercontent.com/Spotky1004P/MCBG-Distribution/main/servers/mcbg-1.16.5/files/saves/%ED%9B%88%EB%A0%A8/serverconfig/ftbranks/players.snbt",
             "MD5": "92dad44412498e949fabcb5e19b7959f",
             "path": "saves/훈련/serverconfig/ftbranks/players.snbt"
           }
@@ -1654,7 +1654,7 @@
           "type": "File",
           "artifact": {
             "size": 309,
-            "url": "https://github.com/Spotky1004P/servers/mcbg-1.16.5/files/saves/%ED%9B%88%EB%A0%A8/serverconfig/ftbranks/ranks.snbt",
+            "url": "https://raw.githubusercontent.com/Spotky1004P/MCBG-Distribution/main/servers/mcbg-1.16.5/files/saves/%ED%9B%88%EB%A0%A8/serverconfig/ftbranks/ranks.snbt",
             "MD5": "0c4d5ef9e76351cf596cdd1877a66b3c",
             "path": "saves/훈련/serverconfig/ftbranks/ranks.snbt"
           }
@@ -1665,7 +1665,7 @@
           "type": "File",
           "artifact": {
             "size": 63107,
-            "url": "https://github.com/Spotky1004P/servers/mcbg-1.16.5/files/saves/%ED%9B%88%EB%A0%A8/serverconfig/ftbranks/README.txt",
+            "url": "https://raw.githubusercontent.com/Spotky1004P/MCBG-Distribution/main/servers/mcbg-1.16.5/files/saves/%ED%9B%88%EB%A0%A8/serverconfig/ftbranks/README.txt",
             "MD5": "64acedc54fd36264d213656fabe1c634",
             "path": "saves/훈련/serverconfig/ftbranks/README.txt"
           }
@@ -1676,7 +1676,7 @@
           "type": "File",
           "artifact": {
             "size": 3017,
-            "url": "https://github.com/Spotky1004P/servers/mcbg-1.16.5/files/saves/%ED%9B%88%EB%A0%A8/serverconfig/vehicle-server.toml",
+            "url": "https://raw.githubusercontent.com/Spotky1004P/MCBG-Distribution/main/servers/mcbg-1.16.5/files/saves/%ED%9B%88%EB%A0%A8/serverconfig/vehicle-server.toml",
             "MD5": "886f4c6223a140ee3015e434be6dbe13",
             "path": "saves/훈련/serverconfig/vehicle-server.toml"
           }
@@ -1687,7 +1687,7 @@
           "type": "File",
           "artifact": {
             "size": 94,
-            "url": "https://github.com/Spotky1004P/servers/mcbg-1.16.5/files/saves/%ED%9B%88%EB%A0%A8/serverconfig/voicechat-server.toml",
+            "url": "https://raw.githubusercontent.com/Spotky1004P/MCBG-Distribution/main/servers/mcbg-1.16.5/files/saves/%ED%9B%88%EB%A0%A8/serverconfig/voicechat-server.toml",
             "MD5": "699a02f91395517d5f5cc946c1dc9571",
             "path": "saves/훈련/serverconfig/voicechat-server.toml"
           }
@@ -1698,7 +1698,7 @@
           "type": "File",
           "artifact": {
             "size": 3,
-            "url": "https://github.com/Spotky1004P/servers/mcbg-1.16.5/files/saves/%ED%9B%88%EB%A0%A8/session.lock",
+            "url": "https://raw.githubusercontent.com/Spotky1004P/MCBG-Distribution/main/servers/mcbg-1.16.5/files/saves/%ED%9B%88%EB%A0%A8/session.lock",
             "MD5": "48856faf4534a876adeadc72aec53cb2",
             "path": "saves/훈련/session.lock"
           }
@@ -1709,7 +1709,7 @@
           "type": "File",
           "artifact": {
             "size": 1108,
-            "url": "https://github.com/Spotky1004P/servers/mcbg-1.16.5/files/saves/%ED%9B%88%EB%A0%A8/stats/f9803129-d7d4-4926-8f58-988d2e8c032d.json",
+            "url": "https://raw.githubusercontent.com/Spotky1004P/MCBG-Distribution/main/servers/mcbg-1.16.5/files/saves/%ED%9B%88%EB%A0%A8/stats/f9803129-d7d4-4926-8f58-988d2e8c032d.json",
             "MD5": "b8a0ed92ce87c86e1c8eba425537cfef",
             "path": "saves/훈련/stats/f9803129-d7d4-4926-8f58-988d2e8c032d.json"
           }
@@ -1720,7 +1720,7 @@
           "type": "File",
           "artifact": {
             "size": 12565,
-            "url": "https://github.com/Spotky1004P/servers/mcbg-1.16.5/files/servers.dat",
+            "url": "https://raw.githubusercontent.com/Spotky1004P/MCBG-Distribution/main/servers/mcbg-1.16.5/files/servers.dat",
             "MD5": "ceb7a6e850b6c936188ab9e45d43bcd5",
             "path": "servers.dat"
           }
@@ -1731,7 +1731,7 @@
           "type": "File",
           "artifact": {
             "size": 25129,
-            "url": "https://github.com/Spotky1004P/servers/mcbg-1.16.5/files/servers.dat_old",
+            "url": "https://raw.githubusercontent.com/Spotky1004P/MCBG-Distribution/main/servers/mcbg-1.16.5/files/servers.dat_old",
             "MD5": "f8389dd628492652478ea5761fe59c60",
             "path": "servers.dat_old"
           }
